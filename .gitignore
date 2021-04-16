@@ -1,0 +1,7 @@
+.idea
+.git
+*/target
+*.bak
+.jar
+# Project exclude paths
+/target/
